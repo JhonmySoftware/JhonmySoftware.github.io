@@ -121,13 +121,8 @@ input, select, textarea {
 /* Type */
 
 	body {
-<<<<<<< HEAD
 		background-color: #978094;
 		color: rgb(255, 255, 242);
-=======
-		background-color: #935d8c;
-		color: rgba(255, 255, 255, 0.65);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 	body, input, select, textarea {
@@ -161,7 +156,6 @@ input, select, textarea {
 
 		}
 
-<<<<<<< HEAD
 		a {
 			-moz-transition: color 0.2s ease, border-bottom 0.2s ease;
 			-webkit-transition: color 0.2s ease, border-bottom 0.2s ease;
@@ -172,17 +166,6 @@ input, select, textarea {
 			color: darkslategray; /* Cambiar a un tono más oscuro */
 		}
 		
-=======
-	a {
-		-moz-transition: color 0.2s ease, border-bottom 0.2s ease;
-		-webkit-transition: color 0.2s ease, border-bottom 0.2s ease;
-		-ms-transition: color 0.2s ease, border-bottom 0.2s ease;
-		transition: color 0.2s ease, border-bottom 0.2s ease;
-		text-decoration: none;
-		border-bottom: dotted 1px;
-		color: inherit;
-	}
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 
 		a:hover {
 			border-bottom-color: transparent;
@@ -338,28 +321,16 @@ input, select, textarea {
 	}
 
 	blockquote {
-<<<<<<< HEAD
 		border-left-color: rgba(43, 41, 41, 0.35);
-=======
-		border-left-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 	code {
 		background: rgba(255, 255, 255, 0.075);
-<<<<<<< HEAD
 		border-color: rgba(43, 41, 41, 0.35);
 	}
 
 	hr {
 		border-bottom-color: rgba(43, 41, 41, 0.35);
-=======
-		border-color: rgba(255, 255, 255, 0.35);
-	}
-
-	hr {
-		border-bottom-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 /* Row */
@@ -1851,11 +1822,7 @@ input, select, textarea {
 		}
 
 	.box {
-<<<<<<< HEAD
 		border-color: rgba(43, 41, 41, 0.35);
-=======
-		border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 /* Button */
@@ -1958,11 +1925,7 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-<<<<<<< HEAD
 		box-shadow: inset 0 0 0 1px rgba(43, 41, 41, 0.35);
-=======
-		box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		color: #ffffff !important;
 	}
 
@@ -2187,11 +2150,7 @@ input, select, textarea {
 	select,
 	textarea {
 		background-color: rgba(255, 255, 255, 0.075);
-<<<<<<< HEAD
 		border-color: rgba(43, 41, 41, 0.35);
-=======
-		border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 		input[type="text"]:focus,
@@ -2220,11 +2179,7 @@ input, select, textarea {
 		input[type="checkbox"] + label:before,
 		input[type="radio"] + label:before {
 			background: rgba(255, 255, 255, 0.075);
-<<<<<<< HEAD
 			border-color: rgba(43, 41, 41, 0.35);
-=======
-			border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		}
 
 	input[type="checkbox"]:checked + label:before,
@@ -2386,7 +2341,6 @@ input, select, textarea {
 		}
 
 	.icon.major {
-<<<<<<< HEAD
 		border-color: rgba(43, 41, 41, 0.35);
 	}
 
@@ -2396,17 +2350,6 @@ input, select, textarea {
 
 	.icon.alt {
 		border-color: rgba(43, 41, 41, 0.35);
-=======
-		border-color: rgba(255, 255, 255, 0.35);
-	}
-
-		.icon.major:before {
-			border-color: rgba(255, 255, 255, 0.35);
-		}
-
-	.icon.alt {
-		border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		color: #ffffff;
 	}
 
@@ -2542,11 +2485,7 @@ input, select, textarea {
 		}
 
 	ul.alt li {
-<<<<<<< HEAD
 		border-top-color: rgba(43, 41, 41, 0.35);
-=======
-		border-top-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 	dl dt {
@@ -2702,7 +2641,6 @@ input, select, textarea {
 		margin-bottom: 3em;
 	}
 
-<<<<<<< HEAD
 	#header {
 		display: flex;
 		flex-direction: column;
@@ -2717,8 +2655,6 @@ input, select, textarea {
 	  
 
 
-=======
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		header.major h2 {
 			font-size: 2em;
 		}
@@ -2781,11 +2717,7 @@ input, select, textarea {
 	}
 
 	header.major h2:after {
-<<<<<<< HEAD
 		background-color: rgba(43, 41, 41, 0.35);
-=======
-		background-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 /* Table */
@@ -2852,11 +2784,7 @@ input, select, textarea {
 			}
 
 	table tbody tr {
-<<<<<<< HEAD
 		border-color: rgba(43, 41, 41, 0.35);
-=======
-		border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 		table tbody tr:nth-child(2n + 1) {
@@ -2868,7 +2796,6 @@ input, select, textarea {
 	}
 
 	table thead {
-<<<<<<< HEAD
 		border-bottom-color: rgba(43, 41, 41, 0.35);
 	}
 
@@ -2878,17 +2805,6 @@ input, select, textarea {
 
 	table.alt tbody tr td {
 		border-color: rgba(43, 41, 41, 0.35);
-=======
-		border-bottom-color: rgba(255, 255, 255, 0.35);
-	}
-
-	table tfoot {
-		border-top-color: rgba(255, 255, 255, 0.35);
-	}
-
-	table.alt tbody tr td {
-		border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 /* Features */
@@ -3165,11 +3081,7 @@ input, select, textarea {
 		}
 
 	.spotlight .image {
-<<<<<<< HEAD
 		border-color: rgba(43, 41, 41, 0.35);
-=======
-		border-color: rgba(255, 255, 255, 0.35);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 	}
 
 /* Header */
@@ -3207,10 +3119,7 @@ input, select, textarea {
 				transition-delay: 0.5s;
 				opacity: 1;
 			}
-<<<<<<< HEAD
 			
-=======
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 
 			#header.alt .logo {
 				-moz-transition: opacity 1.25s ease, -moz-transform 0.5s ease;
@@ -3223,7 +3132,6 @@ input, select, textarea {
 				transition-delay: 0s;
 				display: block;
 				margin: 0 0 1.5em 0;
-<<<<<<< HEAD
 				width: 170px; /* Ajusta el ancho según sea necesario */
 				height: 170px; /* Ajusta la altura según sea necesario */
 				border-radius: 50%; /* Aplica el borde redondeado para formar un círculo */
@@ -3246,15 +3154,6 @@ input, select, textarea {
 			
 			
 			
-=======
-			}
-
-				#header.alt .logo img {
-					display: block;
-					margin: 0 auto;
-					max-width: 75%;
-				}
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 
 		@media screen and (max-width: 1280px) {
 
@@ -3342,7 +3241,6 @@ input, select, textarea {
 
 /* Nav */
 
-<<<<<<< HEAD
 #nav {
 	-moz-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 	-webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
@@ -3376,40 +3274,6 @@ input, select, textarea {
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
 			color: #363333;
-=======
-	#nav {
-		-moz-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		-webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		background-color: #ffffff;
-		color: #636363;
-		position: absolute;
-		width: 64em;
-		max-width: calc(100% - 4em);
-		padding: 1em;
-		background-color: #f7f7f7;
-		border-top-left-radius: 0.25em;
-		border-top-right-radius: 0.25em;
-		cursor: default;
-		text-align: center;
-	}
-
-		#nav input, #nav select, #nav textarea {
-			color: #636363;
-		}
-
-		#nav a:hover {
-			color: #636363;
-		}
-
-		#nav strong, #nav b {
-			color: #636363;
-		}
-
-		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #636363;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		}
 
 		#nav blockquote {
@@ -3417,11 +3281,7 @@ input, select, textarea {
 		}
 
 		#nav code {
-<<<<<<< HEAD
 			background: rgba(54, 52, 52, 0.25);
-=======
-			background: rgba(222, 222, 222, 0.25);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 			border-color: #dddddd;
 		}
 
@@ -3512,7 +3372,6 @@ input, select, textarea {
 	}
 
 		#main input, #main select, #main textarea {
-<<<<<<< HEAD
 			color: #363333;
 		}
 
@@ -3526,21 +3385,6 @@ input, select, textarea {
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
 			color: #363333;
-=======
-			color: #636363;
-		}
-
-		#main a:hover {
-			color: #636363;
-		}
-
-		#main strong, #main b {
-			color: #636363;
-		}
-
-		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		}
 
 		#main blockquote {
@@ -3567,11 +3411,7 @@ input, select, textarea {
 		#main .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px #dddddd;
-<<<<<<< HEAD
 			color: #363333 !important;
-=======
-			color: #636363 !important;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		}
 
 			#main input[type="submit"]:hover,
@@ -3587,11 +3427,7 @@ input, select, textarea {
 			#main input[type="button"]:active,
 			#main button:active,
 			#main .button:active {
-<<<<<<< HEAD
 				background-color: rgba(51, 48, 48, 0.5);
-=======
-				background-color: rgba(222, 222, 222, 0.5);
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 			}
 
 			#main input[type="submit"].icon:before,
@@ -3637,11 +3473,7 @@ input, select, textarea {
 				}
 
 		#main label {
-<<<<<<< HEAD
 			color: #302d2d;
-=======
-			color: #636363;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		}
 
 		#main input[type="text"],
@@ -3667,11 +3499,7 @@ input, select, textarea {
 		}
 
 			#main select option {
-<<<<<<< HEAD
 				color: #383434;
-=======
-				color: #636363;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 				background: #ffffff;
 			}
 
@@ -3688,13 +3516,8 @@ input, select, textarea {
 
 		#main input[type="checkbox"]:checked + label:before,
 		#main input[type="radio"]:checked + label:before {
-<<<<<<< HEAD
 			background-color: #312e2e;
 			border-color: #312e2e;
-=======
-			background-color: #636363;
-			border-color: #636363;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 			color: #ffffff;
 		}
 
@@ -3750,11 +3573,7 @@ input, select, textarea {
 		}
 
 		#main dl dt {
-<<<<<<< HEAD
 			color: #312e2e;
-=======
-			color: #636363;
->>>>>>> f9e9059e34dff874d6c5d179a37b4aca8626292f
 		}
 
 		#main header.major h2:after {
